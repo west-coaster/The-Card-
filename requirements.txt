@@ -1,0 +1,14 @@
+flask
+flask-cors
+requests
+beautifulsoup4
+pandas
+numpy
+python-socketio
+python-engineio
+pyjwt
+bcrypt
+requests-cache
+APScheduler
+python-dotenv
+psycopg2-binary

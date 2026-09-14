@@ -1,0 +1,4 @@
+#!/usr/bin/env bash                                             export PORT=5050                                                export APP_NAME="The Card Prediction Engine"
+
+echo "Launching $APP_NAME on http://127.0.0.1:$PORT..."
+python3 main.py
